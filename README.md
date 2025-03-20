@@ -1,6 +1,8 @@
 # Medical_calculator_MCP
 MCP server for medical calculations
 
+## If you haven't installed Calude Desktop, please install it first. 
+
 ## Installation
 Adding MCP to your python project
 We recommend using uv to manage your Python projects. In a uv managed python project, add mcp to dependencies by:
